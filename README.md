@@ -1,4 +1,5 @@
 # pokemon-app
+> vue3 course from [Erik](https://www.youtube.com/watch?v=QJhqr7jqxVo)
 
 ## Project setup
 ```
